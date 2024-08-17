@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Emergency App</string>
+    <string name="child_rescue">Child Rescue</string>
+    <string name="fire_truck">Fire Truck</string>
+    <string name="police">Police</string>
+    <string name="exit">Exit</string>
+    <string name="do_you_want_to_exit_the_app">Do You Want To Exit The App?</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+</resources>
